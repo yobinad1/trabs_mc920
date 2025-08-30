@@ -1,0 +1,3 @@
+número de regiões pequenas: 5
+número de regiões médias: 1
+número de regiões grandes: 3
